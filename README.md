@@ -1,2 +1,1 @@
-# ACM_Template
- acm个人模板
+嗨，继续努力吧。
